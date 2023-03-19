@@ -1,0 +1,5 @@
+seccion blog
+agregar alumnos 
+vista para computadora
+reseñas
+funcionalidad contacto
