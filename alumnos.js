@@ -8,7 +8,7 @@ export const alumnos = [
         "texto_informativo": "Especialista en Justicia, Víctimas y Construcción de Paz, maestrante en Políticas Públicas en la Universidad Nacional de Colombia. Joven investigador con interés en la Construcción de Paz, Conflicto Armado, Políticas Públicas y Estudios de Juventud. Experiencia en producción de conocimiento tanto en espacios académicos como autónomos de las organizaciones populares. Ha participado en planificación estratégica desde organizaciones de economía social y solidaria, además de diversos espacios de educación popular y memoria histórica. Su última publicación fue: 'Producción social de la ruta de reincorporación de las FARC-EP, subsunción sistémica y reproducción de la conflictividad armada' (2022)."
     },
     {
-        "nombre": "Carlos Amador Martínez Ventura",
+        "nombre": "Juan Camilo",
         "texto_informativo": "Estudiante en la Orden Hsu Yun del Budismo Chan/Zen y Licenciado con el título de Médico cirujano por la Universidad Veracruzana."
     }
 ];

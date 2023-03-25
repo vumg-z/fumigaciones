@@ -1186,10 +1186,6 @@ input:checked + .toggle-bg {
   clear: none;
 }
 
-.m-12 {
-  margin: 3rem;
-}
-
 .m-6 {
   margin: 1.5rem;
 }
@@ -3683,12 +3679,12 @@ input:checked + .toggle-bg {
     height: 1.5rem;
   }
 
-  .sm\:h-9 {
-    height: 2.25rem;
-  }
-
   .sm\:h-64 {
     height: 16rem;
+  }
+
+  .sm\:h-9 {
+    height: 2.25rem;
   }
 
   .sm\:w-10 {
