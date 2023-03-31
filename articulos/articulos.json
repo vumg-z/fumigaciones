@@ -1,0 +1,62 @@
+[
+    {
+        "id": "article",
+        "ps": [
+            "Explora la historia y significado de la escuela budista de la Tierra Pura y su relevancia en la practica actual"
+        ],
+        "h5s": [
+            "Donde esta la Tierra Pura"
+        ],
+        "h5s_original": [
+            "¿Dónde está la Tierra Pura?"
+        ],
+        "imgs": [
+            "./blog/dondeestalatierrapura.jpg"
+        ]
+    },
+    {
+        "id": "article",
+        "ps": [
+            "Reflexiona sobre tus acciones y como influyen en tu vida en lugar de confiar en lo sobrenatural Descubre como actuar con prudencia puede conducir a una vida mejor"
+        ],
+        "h5s": [
+            "Orar realmente funciona Descubre como nuestras acciones influyen en nuestras vidas"
+        ],
+        "h5s_original": [
+            "¿Orar realmente funciona? Descubre cómo nuestras acciones influyen en nuestras vidas"
+        ],
+        "imgs": [
+            "./blog/arbol.jpg"
+        ]
+    },
+    {
+        "id": "article",
+        "ps": [
+            "Explora la filosofia de Buda y su conexion con el materialismo dialectico"
+        ],
+        "h5s": [
+            "Filosofia de Gautama conexion con el materialismo dialectico y diferencia con el budismo etnico"
+        ],
+        "h5s_original": [
+            "Filosofía de Gautama: conexión con el materialismo dialectico y diferencia con el budismo étnico"
+        ],
+        "imgs": [
+            "./blog/portada.jpg"
+        ]
+    },
+    {
+        "id": "article",
+        "ps": [
+            "La Orden Hsu Yun del Budismo ChanZen en Latinoamerica una historia significativa"
+        ],
+        "h5s": [
+            "Historia De La Orden HSU YUN Del Budismo CHANZEN Latinoamerica"
+        ],
+        "h5s_original": [
+            "Historia De La Orden HSU YUN Del Budismo CHAN/ZEN Latinoamerica"
+        ],
+        "imgs": [
+            "./blog/logo.jpg"
+        ]
+    }
+]
