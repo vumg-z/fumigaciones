@@ -1163,6 +1163,11 @@ input:checked + .toggle-bg {
   margin-right: auto;
 }
 
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
 .-mr-1 {
   margin-right: -0.25rem;
 }
